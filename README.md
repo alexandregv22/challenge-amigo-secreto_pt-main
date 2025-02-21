@@ -43,7 +43,7 @@ Nenhuma instalação é necessária para este projeto. Basta abrir o arquivo `in
 
 ## Autor
 
-Feito por [alexandregv22](https://github.com/seu-usuario) durante o curso ONE da Oracle com a Alura.
+Feito por [alexandregv22](https://github.com/alexandregv22) durante o curso ONE da Oracle com a Alura.
 
 ## Licença
 
