@@ -9,6 +9,14 @@ Este projeto permite aos usuários inserir nomes de amigos em uma lista para rea
 - **Visualizar a lista**: Os nomes inseridos aparecem em uma lista abaixo do campo de entrada.
 - **Sorteio aleatório**: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
+## Tecnologias
+
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
 ## Pré-requisitos
 
 Para executar este projeto, você precisará de um navegador da web moderno.
@@ -48,12 +56,4 @@ Feito por [alexandregv22](https://github.com/alexandregv22) durante o curso ONE 
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-## Tecnologias
-
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
 
