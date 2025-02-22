@@ -49,11 +49,11 @@ Feito por [alexandregv22](https://github.com/alexandregv22) durante o curso ONE 
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-## Fontes Utilizadas
+## Tecnologias
 
-Durante o desenvolvimento deste projeto, utilizei as seguintes tecnologias:
-
-- **CSS**: Para estilização da página.
-- **HTML**: Para a estrutura da página.
-- **JavaScript**: Para a lógica do sorteio.
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
