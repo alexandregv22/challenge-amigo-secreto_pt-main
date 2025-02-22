@@ -4,10 +4,10 @@ Este projeto permite aos usuários inserir nomes de amigos em uma lista para rea
 
 ## Funcionalidades
 
-- Adicionar nomes: Os usuários escrevem o nome de um amigo em um campo de texto e o adicionam a uma lista visível ao clicar em "Adicionar".
-- Validar entrada: Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
-- Visualizar a lista: Os nomes inseridos aparecem em uma lista abaixo do campo de entrada.
-- Sorteio aleatório: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
+- **Adicionar nomes**: Os usuários escrevem o nome de um amigo em um campo de texto e o adicionam a uma lista visível ao clicar em "Adicionar".
+- **Validar entrada**: Se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.
+- **Visualizar a lista**: Os nomes inseridos aparecem em uma lista abaixo do campo de entrada.
+- **Sorteio aleatório**: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.
 
 ## Pré-requisitos
 
@@ -48,3 +48,12 @@ Feito por [alexandregv22](https://github.com/alexandregv22) durante o curso ONE 
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+## Fontes Utilizadas
+
+Durante o desenvolvimento deste projeto, utilizei as seguintes tecnologias:
+
+- **CSS**: Para estilização da página.
+- **HTML**: Para a estrutura da página.
+- **JavaScript**: Para a lógica do sorteio.
+
